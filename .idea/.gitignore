@@ -32,6 +32,7 @@ project/project/
 .ensime_cache/
 .ensime_lucene/
 .generated-mima*
+.idea/
 .idea_modules/
 .project
 .pydevproject
@@ -39,6 +40,7 @@ project/project/
 .settings
 
 ### IntelliJ IDEA ###
+.idea
 *.iws
 *.iml
 *.ipr
