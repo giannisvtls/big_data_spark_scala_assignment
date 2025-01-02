@@ -1,0 +1,76 @@
+### Scala ###
+*.class
+*.log
+.bsp/
+
+# sbt specific
+.cache/
+.history/
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+project/target/
+project/project/
+
+### Spark ###
+*#*#
+*.#*
+*.iml
+*.ipr
+*.iws
+*.pyc
+*.pyo
+*.swp
+*~
+.DS_Store
+.classpath
+.ensime
+.ensime_cache/
+.ensime_lucene/
+.generated-mima*
+.idea/
+.idea_modules/
+.project
+.pydevproject
+.scala_dependencies
+.settings
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+.idea_modules/
+
+### VS Code ###
+.vscode/
+.metals/
+.bloop/
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+### Windows ###
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+### Linux ###
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+### Project Specific ###
+# Add any project-specific files to ignore
+spark-warehouse/
+metastore_db/
+derby.log
