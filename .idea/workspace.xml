@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb2cc089-5c7e-4ddb-9a7d-9dbe6369c7f0" name="Default Changelist" comment="chore: gitignore">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Exercise1/Main.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Exercise1/SherlockHolmes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Exercise3/Main.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Exercise3/movies.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Exercise3/results_movies/.part-00000-48a2f1eb-f404-4661-aac7-b2429c6a676e-c000.csv.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Exercise3/results_movies/_SUCCESS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Exercise3/results_movies/part-00000-48a2f1eb-f404-4661-aac7-b2429c6a676e-c000.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Exercise3/results_movies_genre/.part-00000-67385946-6dbd-45bd-8542-3b1f96d19030-c000.csv.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Exercise3/results_movies_genre/_SUCCESS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Exercise3/results_movies_genre/part-00000-67385946-6dbd-45bd-8542-3b1f96d19030-c000.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Exercise3/results_movies_year/.part-00000-12f3c6af-8ff7-4d24-8d5e-0b0654fd97ab-c000.csv.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Exercise3/results_movies_year/_SUCCESS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Exercise3/results_movies_year/part-00000-12f3c6af-8ff7-4d24-8d5e-0b0654fd97ab-c000.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+    <list default="true" id="bb2cc089-5c7e-4ddb-9a7d-9dbe6369c7f0" name="Default Changelist" comment="Added implementations for exercises 1 ands 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +59,7 @@
       <recent name="$PROJECT_DIR$/src/main/scala/Exercise4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="HelloWorld" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="eap-spark" />
@@ -143,8 +128,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.WordCount" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
@@ -167,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1735849340396</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added implementations for exercises 1 ands 3">
+      <created>1736787779510</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736787779510</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +176,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="chore: gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: gitignore" />
+    <MESSAGE value="Added implementations for exercises 1 ands 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added implementations for exercises 1 ands 3" />
   </component>
 </project>

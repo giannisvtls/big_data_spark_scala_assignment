@@ -77,7 +77,7 @@ object Main {
       .csv(outputPath31)
 
     val outputPath32 = "src/main/scala/Exercise3/results_movies_year"
-    genresCount
+    moviesPerYear
       .coalesce(1)
       .write
       .option("header", "true")
